@@ -80,7 +80,7 @@ def letaka_DUS(address, city, fuel_type, fuel_consumption, fuel_amount, radiuss,
                     atb = atbilde.decode()
                     print(atb)
 
-api_key = '63xr4Tv54wXI8xyOYAXeKlTrtIpWS5yJ'
+api_key = 'jūsu api key'
 city = input('Ievadi pilsētu: ')
 address = input('Ievadi adresi: ')
 fuel_consumption = float(input('ievadi mašīnas patēriņu (l/100km): '))
