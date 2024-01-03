@@ -9,7 +9,7 @@ palaist kodu kādā no programmām, kurās var palaist Python
 3 ievadīt automašīnas patēriņu uz 100 km
 4. ievadīt cik daudz vēlaties uzpildīt degvielu DUS
 5. ievadiet vēlamo degvielas veidu
-6 ievadiet rādiusu kilometros
+6. ievadiet rādiusu kilometros
 
 
 Kods nav perfekts un var nestrādāt, bet ir pieejams jebkuram interesentam, kurš to vēlas uzlabot.
