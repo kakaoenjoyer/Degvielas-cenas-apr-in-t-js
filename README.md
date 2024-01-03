@@ -6,7 +6,7 @@ Lietošanas pamācība
 palaist kodu kādā no programmām, kurās var palaist Python
 1. ievadīt pilsētu pēc visām latviešu valodas normām
 2. ievadīt adresi no kuras vēlaties uzsākt meklējumus
-3 ievadīt automašīnas patēriņu uz 100 km
+3. ievadīt automašīnas patēriņu uz 100 km
 4. ievadīt cik daudz vēlaties uzpildīt degvielu DUS
 5. ievadiet vēlamo degvielas veidu
 6. ievadiet rādiusu kilometros
